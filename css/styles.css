@@ -12564,6 +12564,9 @@ header.masthead {
     object-fit: cover;
 }
 
+.link-icon {
+    font-style: normal !important;
+}
 
 /* 🟫 Gradiente del fondo como overlay */
 .video-bg-wrapper .video-overlay {
