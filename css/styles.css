@@ -12566,6 +12566,7 @@ header.masthead {
 
 .link-icon {
     font-style: normal !important;
+    text-decoration: none;
 }
 
 /* 🟫 Gradiente del fondo como overlay */
