@@ -6491,6 +6491,11 @@ textarea.form-control-lg {
     content: "";
 }
 
+.carousel-inner img {
+    width: 60% !important;   /* todas las imágenes del carrusel tendrán 60% de ancho */
+    margin: 0 auto;          /* centrado */
+}
+
 .carousel-item {
     position: relative;
     display: none;
